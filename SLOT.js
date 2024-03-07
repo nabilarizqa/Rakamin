@@ -101,6 +101,11 @@ do{
       break;
     } 
 }
+<<<<<<< HEAD
 while (type != 3)
 
 let a;
+let nabila = "nabila"
+=======
+while (type != 3)
+>>>>>>> parent of 3637d66 (variabel a)
